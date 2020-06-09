@@ -20,6 +20,10 @@ Installed [Anaconda](https://www.anaconda.com/products/individual), a pre-packag
 
 ```!pip install turicreate ```
 
+## Project Architecture
+
+![Regression](https://user-images.githubusercontent.com/50728879/84189414-dbfe5400-aab2-11ea-9610-63cdd7cd6998.jpeg)
+
 ## Code
 The code contains the following parts-
 * ``` Part 1``` Importing the required modules and loading the data set.
