@@ -21,8 +21,7 @@ Installed [Anaconda](https://www.anaconda.com/products/individual), a pre-packag
 ```!pip install turicreate ```
 
 ## Project Architecture
-
-![Regression](https://user-images.githubusercontent.com/50728879/84189414-dbfe5400-aab2-11ea-9610-63cdd7cd6998.jpeg)
+![Regression](https://user-images.githubusercontent.com/50728879/84190927-57610500-aab5-11ea-9a45-1471b4c09132.jpeg)
 
 ## Code
 The code contains the following parts-
